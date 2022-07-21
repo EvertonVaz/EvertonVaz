@@ -6,10 +6,9 @@
 
 <p align="left">
 <a href="https://etovaz.web@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.svg" alt="etovaz.web@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/everton-vaz-181b8017a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/everton-vaz-181b8017a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/everton-vaz-181b8017a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/everton-vaz-181b8017a/" height="30" width="40" /></a>
 <a href="https://fb.com/etovaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/etovaz" height="30" width="40" /></a>
 <a href="https://instagram.com/etovaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/etovaz" height="30" width="40" /></a>
-<a href="https://discord.gg/etovaz#7759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="etovaz#7759" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
