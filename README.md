@@ -1,9 +1,10 @@
 <h1 align="center">Hello 👋, I´m Everton Vaz</h1>
 
-<h3 align="left">Connect with me:</h3>
-
+<p align="center" >
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk1frjdc004908mhk2togjaz/stats?cursusId=60&coalitionId=undefined" alt="egeraldo's 42 stats"/></a>
+</p>
 ---
-
+<h3>Contact me</h3>
 <p align="left">
 <a href="https://etovaz.web@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.svg" alt="etovaz.web@gmail.com" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/everton-vaz-181b8017a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/everton-vaz-181b8017a/" height="30" width="40" /></a>
