@@ -24,7 +24,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 :---: | :---:
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=evertonvaz&theme=gotham&area=true&hide_border=true&locale=pt-br)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)
 
 ![Visitas](https://profile-counter.glitch.me/evertonvaz/count.svg)
 
