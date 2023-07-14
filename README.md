@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I´m Everton Vaz</h1>
+<h1 align="center">Everton Vaz</h1>
 
 <p align="center" >
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk1frjdc004908mhk2togjaz/stats?cursusId=60&coalitionId=undefined" alt="egeraldo's 42 stats"/></a>
