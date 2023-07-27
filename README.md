@@ -3,7 +3,6 @@
 <p align="center" >
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk1frjdc004908mhk2togjaz/stats?cursusId=60&coalitionId=undefined" alt="egeraldo's 42 stats"/></a>
 </p>
----
 <h3>Contact me</h3>
 <p align="left">
 <a href="https://etovaz.web@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.svg" alt="etovaz.web@gmail.com" height="30" width="40" /></a>
@@ -21,14 +20,11 @@
   </a>
 </p>
 
-<h3 align="left">Stats:</h3>
-
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 :---: | :---:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)|<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 ![Visitas](https://profile-counter.glitch.me/evertonvaz/count.svg)
 
 
