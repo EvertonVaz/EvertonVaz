@@ -22,6 +22,15 @@
   </a>
 </p>
 
+<h3 align="left">42 Projects</h3>
+
+---
+<p>
+  <a href="https://github.com/EvertonVaz/42sp/tree/main/libft"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace="5"></a>
+  <a href="https://github.com/EvertonVaz/42sp/tree/main/get_next_line"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace="5"></a>
+  <a href="https://github.com/EvertonVaz/42sp/tree/main/ft_printf"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" hspace="5"></a>
+</p>
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
