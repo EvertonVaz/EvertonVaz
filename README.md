@@ -25,13 +25,17 @@
 <h3 align="left">42 Projects</h3>
 
 ---
-<p>
-  <a href="https://github.com/EvertonVaz/42sp/tree/main/libft"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace="5"></a>
-  <a href="https://github.com/EvertonVaz/42sp/tree/main/get_next_line"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace="5"></a>
-  <a href="https://github.com/EvertonVaz/42sp/tree/main/ft_printf"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" hspace="5"></a>
-  <a href="https://github.com/EvertonVaz"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace="5"></a>
-  <a href="https://github.com/EvertonVaz/42sp/tree/main/fractol"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace="5"></a>
-</p>
+<div align="center">
+  <img height=170 src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace = "10">
+  <p align="center">
+    <a href="https://github.com/EvertonVaz/42sp/tree/main/libft"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace="5"></a>
+    <a href="https://github.com/EvertonVaz/42sp/tree/main/get_next_line"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace="5"></a>
+    <a href="https://github.com/EvertonVaz/42sp/tree/main/ft_printf"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" hspace="5"></a>
+    <a href="https://github.com/EvertonVaz"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace="5"></a>
+    <a href="https://github.com/EvertonVaz/42sp/tree/main/fractol"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace="5"></a>
+    <a href="https://github.com/EvertonVaz/42sp/tree/main/minitalk"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" hspace="5"></a>  
+  </p>
+</div>
 
 ---
 
