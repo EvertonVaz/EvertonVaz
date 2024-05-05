@@ -1,5 +1,10 @@
 <h1 align="center">Everton Vaz</h1>
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=evertonvaz&color=blue&style=flat-square)
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/egeraldo)
+
+</div>
 <p align="center" >
 <!---
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk1frjdc004908mhk2togjaz/stats?cursusId=21&coalitionId=undefined" alt="egeraldo's 42 stats" /></a>
