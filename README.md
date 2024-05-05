@@ -1,15 +1,7 @@
 <h1 align="center">Everton Vaz</h1>
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=evertonvaz&color=blue&style=flat-square)
-[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/egeraldo)
-
-</div>
-<p align="center" >
 <!---
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk1frjdc004908mhk2togjaz/stats?cursusId=21&coalitionId=undefined" alt="egeraldo's 42 stats" /></a>
 -->
-</p>
 <h3>Contact me</h3>
 <p align="left">
 <a href="https://etovaz.web@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="etovaz.web@gmail.com" height="30" width="40" /></a>
@@ -27,10 +19,12 @@
   </a>
 </p>
 
-<h3 align="left">42 Projects</h3>
+<h3 align="left">École 42 São Paulo badges</h3>
 
 ---
 <div align="center">
+
+[![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/egeraldo)
 
 [<img src=https://game.42sp.org.br/static/assets/achievements/phase_onem.png width=150/>](https://github.com/EvertonVaz)|[<img src=https://game.42sp.org.br/static/assets/achievements/phase_twon.png width=150/>](https://github.com/EvertonVaz)
 :---: | :---:
