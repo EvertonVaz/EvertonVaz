@@ -25,28 +25,26 @@
 <h3 align="left">42 Projects</h3>
 
 ---
-  <div class="container">
-    <div class="row">
-		<div align="center">
+<div class="container">
+    <div class="col-6" align="center">
 			<img height=170 src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" hspace = "10">
     </div>
-		<div class="col-6" align="center">
-			<a href="https://github.com/EvertonVaz/42sp/tree/main/libft"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace="5"></a>
-			<a href="https://github.com/EvertonVaz/42sp/tree/main/get_next_line"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace="5"></a>
-			<a href="https://github.com/EvertonVaz/42sp/tree/main/ft_printf"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" hspace="5"></a>
-			<a href="https://github.com/EvertonVaz"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace="5"></a>
-			<a href="https://github.com/EvertonVaz/42sp/tree/main/fractol"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace="5"></a>
-			<a href="https://github.com/EvertonVaz/42sp/tree/main/minitalk"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" hspace="5"></a>
-		</div>
-		<div align="center">
+	<div class="row" align="center">
+		<a href="https://github.com/EvertonVaz/42sp/tree/main/libft"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace="5"></a>
+		<a href="https://github.com/EvertonVaz/42sp/tree/main/get_next_line"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace="5"></a>
+		<a href="https://github.com/EvertonVaz/42sp/tree/main/ft_printf"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" hspace="5"></a>
+		<a href="https://github.com/EvertonVaz"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace="5"></a>
+		<a href="https://github.com/EvertonVaz/42sp/tree/main/fractol"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace="5"></a>
+		<a href="https://github.com/EvertonVaz/42sp/tree/main/minitalk"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/minitalkm.png" hspace="5"></a>
+	</div>
+	<div class="col-6" align="center">
 			<img height=170 src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace = "10">
     </div>
-    <div class="col-6" align="center">
-      <a href="https://github.com/EvertonVaz/42sp/blob/main/push_swap"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png" hspace = "5"></a>
-    </div>
+	<div class="row" align="center">
+		<a href="https://github.com/EvertonVaz/42sp/blob/main/push_swap"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png" hspace = "5"></a>
+		<a href="https://github.com/EvertonVaz/minishell"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" hspace = "5"></a>
+		<a href="https://github.com/EvertonVaz/philosophers"><img height=120 src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png" hspace = "5"></a>
 	</div>
-</div>
-
 </div>
 
 ---
