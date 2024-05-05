@@ -32,14 +32,11 @@
 ---
 <div align="center">
 
-[<img src=https://game.42sp.org.br/static/assets/achievements/phase_onem.png width=150/>](https://github.com/EvertonVaz)|[<img src=https://game.42sp.org.br/static/assets/achievements/phase_twon.png width=150/>](https://github.com/EvertonVaz)|[<img />]()
-:---:|:---:|:---:
+[<img src=https://game.42sp.org.br/static/assets/achievements/phase_onem.png width=150/>](https://github.com/EvertonVaz)|[<img src=https://game.42sp.org.br/static/assets/achievements/phase_twon.png width=150/>](https://github.com/EvertonVaz)
+:---: | :---:
 [<img src=https://game.42sp.org.br/static/assets/achievements/libftm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/libft)[<img src=https://game.42sp.org.br/static/assets/achievements/get_next_linem.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/get_next_line)[<img src=https://game.42sp.org.br/static/assets/achievements/ft_printfm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/ft_printf)|[<img src=https://game.42sp.org.br/static/assets/achievements/push_swapm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/push_swap)[<img src=https://game.42sp.org.br/static/assets/achievements/minishellm.png width=100/>](https://github.com/EvertonVaz/minishell)[<img src=https://game.42sp.org.br/static/assets/achievements/philosophersm.png width=100/>](https://github.com/EvertonVaz/philosophers)
 [<img src=https://game.42sp.org.br/static/assets/achievements/born2berootm.png width=100/>](https://github.com/EvertonVaz)[<img src=https://game.42sp.org.br/static/assets/achievements/fract-olm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/fractol)[<img src=https://game.42sp.org.br/static/assets/achievements/minitalkm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/minitalk)
-
 </div>
-
-
 
 ---
 
