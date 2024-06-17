@@ -23,9 +23,7 @@
 
 ---
 <div align="center">
-
-# [![42 Game](https://img.shields.io/badge/Game-profile-0a66c2?style=flat-square&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/egeraldo)
-
+  
 [<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/phase_onem.png width=150/>](https://github.com/EvertonVaz)|[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/phase_twom.png width=150/>](https://github.com/EvertonVaz)
 :---: | :---:
 [<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/libft)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/get_next_line)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/ft_printf)|[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/push_swap)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png width=100/>](https://github.com/EvertonVaz/minishell)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png width=100/>](https://github.com/EvertonVaz/philosophers)
