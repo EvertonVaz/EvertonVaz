@@ -1,7 +1,7 @@
-<h1 align="center">Everton Vaz</h1>
-<!---
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk1frjdc004908mhk2togjaz/stats?cursusId=21&coalitionId=undefined" alt="egeraldo's 42 stats" /></a>
--->
+<div align="center">
+  <h1>Everton Vaz</h1>
+</div>
+
 <h3>Contact me</h3>
 <p align="left">
 <a href="https://etovaz.web@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="etovaz.web@gmail.com" height="30" width="40" /></a>
@@ -15,25 +15,41 @@
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,angular,typescript,c,git,python,django,tensorflow,dotnet,linux,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,c,cpp,cs,java,python,django,tensorflow,linux,git,mongodb,postgresql" />
   </a>
 </p>
 
-<h3 align="left">École 42 São Paulo badges</h3>
+<div>
+<h3 align="left">École 42 São Paulo badges </h3>
+<img src=badges/credly/lvl9.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-9"/>
+<img src=badges/credly/lvl10.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-10"/>
+<img src=badges/credly/lvl11.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-11"/>
+<!--
+<img src=badges/credly/lvl12.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-junior-developer-level-12"/>
+<img src=badges/credly/lvl13.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-developer-level-13"/>
+<img src=badges/credly/lvl14.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-developer-level-14"/>
+<img src=badges/credly/lvl15.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-developer-level-15"/>
+<img src=badges/credly/lvl16.png width=90 href="https://www.credly.com/org/42/badge/42-cursus-advanced-developer-level-16"/>
+-->
+</div>
 
 ---
 <div align="center">
-  
-[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/phase_onem.png width=150/>](https://github.com/EvertonVaz)|[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/phase_twom.png width=150/>](https://github.com/EvertonVaz)
-:---: | :---:
-[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/libft)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/get_next_line)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/ft_printf)|[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/push_swap)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png width=100/>](https://github.com/EvertonVaz/minishell)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png width=100/>](https://github.com/EvertonVaz/philosophers)
-[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png width=100/>](https://github.com/EvertonVaz)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/fract-olm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/fractol)[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png width=100/>](https://github.com/EvertonVaz/42sp/tree/main/minitalk)|[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png width=100/>]()[<img src=https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png width=100/>](https://github.com/EvertonVaz/cub3d)
+
+[<img src=badges/commom_core/human_coder.png width=150/>](https://github.com/EvertonVaz)
+
+---
+
+[<img src=badges/commom_core/fase1.png width=150/>](https://github.com/EvertonVaz)|[<img src=badges/commom_core/fase2.png width=150/>](https://github.com/EvertonVaz)|[<img src=badges/commom_core/fase3.png width=150/>](https://github.com/EvertonVaz)
+:---: | :---: | :---:
+[<img src=badges/commom_core/libft.png width=70/>](https://github.com/EvertonVaz/42sp/tree/main/libft)[<img src=badges/commom_core/gnl.png width=70/>](https://github.com/EvertonVaz/42sp/tree/main/get_next_line)[<img src=badges/commom_core/printf.png width=70/>](https://github.com/EvertonVaz/42sp/tree/main/ft_printf)|[<img src=badges/commom_core/push.png width=70/>](https://github.com/EvertonVaz/42sp/tree/main/push_swap)[<img src=badges/commom_core/hell.png width=70/>](https://github.com/EvertonVaz/minishell)[<img src=badges/commom_core/philo.png width=70/>](https://github.com/EvertonVaz/philosophers)|[<img src=badges/commom_core/cpp.png width=70/>](https://github.com/EvertonVaz/cpp)[<img src=badges/commom_core/inception.png width=70/>](https://github.com/EvertonVaz/inception)[<img src=badges/commom_core/web.png width=70/>](https://github.com/EvertonVaz/webserv)
+[<img src=badges/commom_core/born.png width=70/>](https://github.com/EvertonVaz)[<img src=badges/commom_core/fractol.png width=70/>](https://github.com/EvertonVaz/42sp/tree/main/fractol)[<img src=badges/commom_core/minitalk.png width=70/>](https://github.com/EvertonVaz/42sp/tree/main/minitalk)|[<img src=badges/commom_core/netpractice.png width=70/>]()[<img src=badges/commom_core/cub.png width=70/>](https://github.com/EvertonVaz/cub3d)|[<img src=badges/commom_core/transcendence.png width=150/>](https://github.com/EvertonVaz/transcendence)
 </div>
 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 :---: | :---:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)|<img align="right" width="300" src="https://camo.githubusercontent.com/eccb116786009c05c71432ec46e7ba8faf82b44f39a0c82aadfcc0edff022dda/68747470733a2f2f692e696d6775722e636f6d2f757538496b796d2e676966" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)|<img align="right" width="300" src="badges/programming.gif" />
 
 ![Visitas](https://profile-counter.glitch.me/evertonvaz/count.svg)
