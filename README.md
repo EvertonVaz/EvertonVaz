@@ -47,9 +47,12 @@
 </div>
 
 ---
-
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvaz&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 :---: | :---:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evertonvaz&theme=gotham&&area=true&hide_border=true)](https://git.io/streak-stats)|<img align="right" width="300" src="badges/programming.gif" />
+
+</div>
 
 ![Visitas](https://profile-counter.glitch.me/evertonvaz/count.svg)
